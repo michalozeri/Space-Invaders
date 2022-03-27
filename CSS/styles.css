@@ -17,7 +17,8 @@ h2 {
 table {
     border-collapse: collapse;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 80px;
+    height: 65vh
     ;
 }
 
